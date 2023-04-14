@@ -9,5 +9,3 @@ I had complete these following projects:
 3. URL Shortener Microservice
 4. Exercise Tracker
 5. File Metadata Microservice
-
-Here is my certificate
